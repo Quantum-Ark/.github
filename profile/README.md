@@ -12,15 +12,15 @@
   </a>
 </div>
 
-<!-- ORG DESCRIPTION WITH GLOW -->
+<!-- ORG DESCRIPTION -->
 <p align="center">
-  <b>An open-source development collective based in India, engineering innovative solutions across <br>
+  <b>An open-source development collective based in India, engineering innovative solutions across<br>
   agriculture technology, space science, and data-driven applications.</b>
 </p>
 
 <br>
 
-<!-- DIVIDER -->
+<!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- SECTION: ABOUT US -->
@@ -44,6 +44,9 @@
 </table>
 
 <br>
+
+<!-- RAINBOW DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- SECTION: PROJECT SHOWCASE -->
 <h2 align="center">🧭 Our Projects</h2>
@@ -80,24 +83,20 @@
   </tr>
 </table>
 
-><i>✨ More open-source tools, libraries, and developer resources on the horizon.</i>
+<blockquote><i>✨ More open-source tools, libraries, and developer resources on the horizon.</i></blockquote>
 
 <br>
 
-<!-- DIVIDER -->
+<!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- SECTION: HIGHLIGHTS WITH ANIMATED STATS -->
+<!-- SECTION: HIGHLIGHTS -->
 <h2 align="center">🌟 Highlights</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub Streak" width="400"/>
-</p>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">🌾 <b>KrishiSahayak</b></td>
+      <td align="center" width="150">🌾 <b>KrishiSahayak</b></td>
       <td>Helping farmers with real-time market prices, weather insights, crop advisory — accessible via Web, Android & Desktop</td>
     </tr>
     <tr>
@@ -113,7 +112,7 @@
 
 <br>
 
-<!-- DIVIDER -->
+<!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- SECTION: TECH STACK -->
@@ -135,25 +134,28 @@
 
 <br>
 
-<!-- DIVIDER -->
+<!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- SECTION: GITHUB METRICS / VISUALIZATION -->
-<h2 align="center">📊 Organization Analytics</h2>
+<!-- SECTION: ORGANIZATION STATS -->
+<h2 align="center">📊 By the Numbers</h2>
 
 <p align="center">
   <a href="https://github.com/Quantum-Ark">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area_color=00C6FF" width="95%" alt="Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Quantum-Ark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&border_radius=10" alt="Organization Stats" width="400"/>
+  </a>
+  <a href="https://github.com/Quantum-Ark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-Ark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&border_radius=10" alt="Top Languages" width="345"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantum-Ark&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area_color=00C6FF" width="95%" alt="Activity Graph" />
 </p>
 
 <br>
 
-<!-- DIVIDER -->
+<!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- SECTION: GET INVOLVED -->
@@ -168,7 +170,7 @@
     <tr>
       <td align="center">⭐</td>
       <td><b>Star & follow</b> our repositories to stay updated</td>
-      <td rowspan="4" width="200" align="center">
+      <td rowspan="4" width="220" align="center">
         <br>
         <a href="mailto:abhibro936@gmail.com">
           <img src="https://img.shields.io/badge/📧%20Email%20Us-abhibro936@gmail.com-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -203,32 +205,20 @@
 
 <br>
 
-<!-- DIVIDER -->
+<!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- FOOTER -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek&theme=tokyonight&hide_border=true">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek&theme=tokyonight&hide_border=true" width="300" alt="Profile Summary">
-        </picture>
-      </td>
-      <td align="center">
-        <br><br>
-        <b>Built with 💙 by the Quantum Ark community</b>
-        <br><br>
-        <a href="https://github.com/Quantum-Ark">
-          <img src="https://img.shields.io/badge/github.com/Quantum--Ark-0D1117?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=0D1117" />
-        </a>
-        <br><br>
-        <sub><i>© 2026 Quantum Ark · Open Source · India</i></sub>
-        <br><br>
-      </td>
-    </tr>
-  </table>
+  <br>
+  <b>Built with 💙 by the Quantum Ark community</b>
+  <br><br>
+  <a href="https://github.com/Quantum-Ark">
+    <img src="https://img.shields.io/badge/github.com/Quantum--Ark-0D1117?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=0D1117" />
+  </a>
+  <br><br>
+  <sub><i>© 2026 Quantum Ark · Open Source · India</i></sub>
+  <br><br>
 </div>
 
 <!-- ANIMATED FOOTER WAVE -->
