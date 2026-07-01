@@ -137,23 +137,8 @@
 <!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- SECTION: ORGANIZATION STATS -->
-<h2 align="center">📊 By the Numbers</h2>
 
-<p align="center">
-  <a href="https://github.com/Quantum-Ark">
-    <img src="https://github-readme-stats.vercel.app/api?username=Quantum-Ark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&border_radius=10" alt="Organization Stats" width="400"/>
-  </a>
-  <a href="https://github.com/Quantum-Ark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-Ark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&border_radius=10" alt="Top Languages" width="345"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantum-Ark&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area_color=00C6FF" width="95%" alt="Activity Graph" />
-</p>
-
-<br>
 
 <!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
